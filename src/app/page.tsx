@@ -88,7 +88,7 @@ export default function Home() {
               We&apos;ll confirm your order and delivery timing right away!
             </p>
             <a
-              href="https://wa.me/923001234567?text=Hi! I want to order Fresh Fry Cuts."
+              href="https://wa.me/923170211829?text=Hi! I want to order Fresh Fry Cuts."
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block bg-green-600 hover:bg-green-700 text-white text-xl font-bold px-10 py-4 rounded-full shadow-lg transition-all"
